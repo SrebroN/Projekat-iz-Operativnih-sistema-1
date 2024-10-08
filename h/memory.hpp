@@ -1,7 +1,3 @@
-//
-// Created by os on 8/12/24.
-//
-
 #ifndef MEMORY_HPP
 #define MEMORY_HPP
 #include "../lib/hw.h"
