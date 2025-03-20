@@ -1,4 +1,6 @@
 # Projekat-iz-Operativnih-sistema-1
+# Operating systems 1 project
+
 Multithreaded OS kernel for riscv
 
 OS kernel written for RiscV architecture ran on qemu emulator. No external libraries are used, everything is written from scratch.
